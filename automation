@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-06T08:13:51.630Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="OySCe07DqzNFWaglfDxX" version="15.0.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-09-07T02:28:14.527Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="07UBahcaolD4vXPyJpQ2" version="15.0.6" type="github" pages="4">
   <diagram id="BD6aiT3hY1ZL-w1wyBOi" name="Page-1">
     <mxGraphModel dx="1666" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -383,7 +383,7 @@
         <mxCell id="eTmCspJCfhzKxsMLFZet-66" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="kmZLm4kNFjzTg9oZ6B0M-1" vertex="1">
           <mxGeometry x="414" y="2160" width="10" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="eTmCspJCfhzKxsMLFZet-67" value="set truck session to online" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="kmZLm4kNFjzTg9oZ6B0M-1" target="eTmCspJCfhzKxsMLFZet-66" edge="1">
+        <mxCell id="eTmCspJCfhzKxsMLFZet-67" value="&lt;b&gt;set truck session to online&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="kmZLm4kNFjzTg9oZ6B0M-1" target="eTmCspJCfhzKxsMLFZet-66" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="414" y="2120" as="sourcePoint" />
             <Array as="points">
@@ -419,7 +419,7 @@
         <mxCell id="eTmCspJCfhzKxsMLFZet-82" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="kmZLm4kNFjzTg9oZ6B0M-1" vertex="1">
           <mxGeometry x="414" y="2480" width="10" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="eTmCspJCfhzKxsMLFZet-83" value="set truck session to offline" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="kmZLm4kNFjzTg9oZ6B0M-1" target="eTmCspJCfhzKxsMLFZet-82" edge="1">
+        <mxCell id="eTmCspJCfhzKxsMLFZet-83" value="&lt;b&gt;set truck session to offline&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="kmZLm4kNFjzTg9oZ6B0M-1" target="eTmCspJCfhzKxsMLFZet-82" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="414" y="2440" as="sourcePoint" />
             <Array as="points">
@@ -444,7 +444,7 @@
         <mxCell id="eTmCspJCfhzKxsMLFZet-93" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="kmZLm4kNFjzTg9oZ6B0M-1" vertex="1">
           <mxGeometry x="414" y="1410" width="10" height="550" as="geometry" />
         </mxCell>
-        <mxCell id="eTmCspJCfhzKxsMLFZet-94" value="picking list" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="kmZLm4kNFjzTg9oZ6B0M-1" target="eTmCspJCfhzKxsMLFZet-93" edge="1">
+        <mxCell id="eTmCspJCfhzKxsMLFZet-94" value="&lt;b&gt;picking list&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="kmZLm4kNFjzTg9oZ6B0M-1" target="eTmCspJCfhzKxsMLFZet-93" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="414" y="1390" as="sourcePoint" />
             <Array as="points">
@@ -455,7 +455,7 @@
         <mxCell id="eTmCspJCfhzKxsMLFZet-95" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="kmZLm4kNFjzTg9oZ6B0M-1" vertex="1">
           <mxGeometry x="414" y="300" width="10" height="990" as="geometry" />
         </mxCell>
-        <mxCell id="eTmCspJCfhzKxsMLFZet-96" value="create truck session" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="kmZLm4kNFjzTg9oZ6B0M-1" target="eTmCspJCfhzKxsMLFZet-95" edge="1">
+        <mxCell id="eTmCspJCfhzKxsMLFZet-96" value="&lt;b&gt;create truck session&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="kmZLm4kNFjzTg9oZ6B0M-1" target="eTmCspJCfhzKxsMLFZet-95" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="414" y="280" as="sourcePoint" />
             <Array as="points">
@@ -563,7 +563,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0i3ncdmv39YufgltikHG" name="clean-test-data">
-    <mxGraphModel dx="1666" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1666" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="QIcFJK9Orlo5iP6icB1l-0" />
         <mxCell id="QIcFJK9Orlo5iP6icB1l-1" parent="QIcFJK9Orlo5iP6icB1l-0" />
