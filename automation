@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T07:37:15.220Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="La_2iBoiHL4CA9vmgChc" version="15.1.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-09-13T08:24:49.715Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="WwIe6j8iPi8QU_91KjgI" version="15.1.4" type="github" pages="5">
   <diagram id="WcOczfvRfabkbM_W5sL2" name=" order&#39;s lifecycle">
     <mxGraphModel dx="2493" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1240,6 +1240,148 @@
         </mxCell>
         <mxCell id="rOqxTrg8aDe8NC21bboG-22" value="&lt;div&gt;TruckSessionWebService.cancel()&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="rOqxTrg8aDe8NC21bboG-1">
           <mxGeometry x="236" y="295" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8rUGCpM4c3Fx28PJnizt-0" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22verticalAlign%3Dtop%3Balign%3Dleft%3BspacingTop%3D8%3BspacingLeft%3D2%3BspacingRight%3D12%3Bshape%3Dcube%3Bsize%3D10%3Bdirection%3Dsouth%3BfontStyle%3D4%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22370%22%20y%3D%221560%22%20width%3D%22985%22%20height%3D%22430%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22set%20truck%20session%20to%20offduty%22%20style%3D%22shape%3Dnote%3BstrokeWidth%3D2%3BfontSize%3D14%3Bsize%3D20%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23fff2cc%3BstrokeColor%3D%23d6b656%3BfontColor%3D%23666600%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22160%22%20y%3D%22880%22%20width%3D%22250%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20style%3D%22edgeStyle%3DorthogonalEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3Bshadow%3D0%3BstartArrow%3Dnone%3B%22%20edge%3D%221%22%20source%3D%2210%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22260%22%20y%3D%221370%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%225%22%20value%3D%22Actor%22%20style%3D%22shape%3DumlActor%3BverticalLabelPosition%3Dbottom%3BverticalAlign%3Dtop%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22245%22%20y%3D%22970%22%20width%3D%2230%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%226%22%20style%3D%22edgeStyle%3DorthogonalEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3Bshadow%3D0%3B%22%20edge%3D%221%22%20source%3D%227%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22580%22%20y%3D%222140%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%227%22%20value%3D%22test-agent-interface%22%20style%3D%22html%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22480%22%20y%3D%22990%22%20width%3D%22200%22%20height%3D%2250%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%228%22%20style%3D%22edgeStyle%3DorthogonalEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3Bshadow%3D0%3B%22%20edge%3D%221%22%20source%3D%229%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%221090%22%20y%3D%222120%22%20as%3D%22targetPoint%22%2F%3E%3CArray%20as%3D%22points%22%3E%3CmxPoint%20x%3D%221090%22%20y%3D%222070%22%2F%3E%3C%2FArray%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%229%22%20value%3D%22truck-service-interface%22%20style%3D%22html%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22990%22%20y%3D%22990%22%20width%3D%22200%22%20height%3D%2250%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2210%22%20value%3D%22%22%20style%3D%22html%3D1%3Bpoints%3D%5B%5D%3Bperimeter%3DorthogonalPerimeter%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22255%22%20y%3D%221120%22%20width%3D%2210%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2211%22%20value%3D%22%22%20style%3D%22edgeStyle%3DorthogonalEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3Bshadow%3D0%3BendArrow%3Dnone%3B%22%20edge%3D%221%22%20source%3D%225%22%20target%3D%2210%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22260%22%20y%3D%221370%22%20as%3D%22targetPoint%22%2F%3E%3CmxPoint%20x%3D%22260%22%20y%3D%221030%22%20as%3D%22sourcePoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2212%22%20value%3D%22%22%20style%3D%22html%3D1%3Bpoints%3D%5B%5D%3Bperimeter%3DorthogonalPerimeter%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22575%22%20y%3D%221120%22%20width%3D%2210%22%20height%3D%22960%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2213%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2011px%26quot%3B%26gt%3BTruckSessionWebService.bulkOffDuty()%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22html%3D1%3BverticalAlign%3Dbottom%3BendArrow%3Dblock%3Bshadow%3D0%3B%22%20edge%3D%221%22%20target%3D%2212%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22260%22%20y%3D%221120%22%20as%3D%22sourcePoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2214%22%20value%3D%22%22%20style%3D%22html%3D1%3Bpoints%3D%5B%5D%3Bperimeter%3DorthogonalPerimeter%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221085%22%20y%3D%221120%22%20width%3D%2210%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2215%22%20value%3D%22BOTruckSessionWebService.searchV2()%22%20style%3D%22html%3D1%3BverticalAlign%3Dbottom%3BendArrow%3Dblock%3BentryX%3D0%3BentryY%3D0%3Bshadow%3D0%3BexitX%3D0.7%3BexitY%3D0%3BexitDx%3D0%3BexitDy%3D0%3BexitPerimeter%3D0%3B%22%20edge%3D%221%22%20source%3D%2219%22%20target%3D%2214%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22650%22%20y%3D%221100%22%20as%3D%22sourcePoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2216%22%20value%3D%22return%26amp%3Bnbsp%3BtruckSessions%22%20style%3D%22html%3D1%3BverticalAlign%3Dbottom%3BendArrow%3Dopen%3Bdashed%3D1%3BendSize%3D8%3BexitX%3D0%3BexitY%3D0.95%3Bshadow%3D0%3BentryX%3D1%3BentryY%3D0.975%3BentryDx%3D0%3BentryDy%3D0%3BentryPerimeter%3D0%3B%22%20edge%3D%221%22%20source%3D%2214%22%20target%3D%2219%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22600%22%20y%3D%221220%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2217%22%20value%3D%22%22%20style%3D%22html%3D1%3Bpoints%3D%5B%5D%3Bperimeter%3DorthogonalPerimeter%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221085%22%20y%3D%221280%22%20width%3D%2210%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2218%22%20value%3D%22BOWorkingTruckSessionWebServiceoffline()%22%20style%3D%22html%3D1%3BverticalAlign%3Dbottom%3BendArrow%3Dblock%3BentryX%3D0%3BentryY%3D0%3Bshadow%3D0%3BexitX%3D0.9%3BexitY%3D0.013%3BexitDx%3D0%3BexitDy%3D0%3BexitPerimeter%3D0%3B%22%20edge%3D%221%22%20source%3D%2220%22%20target%3D%2217%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22865%22%20y%3D%221280%22%20as%3D%22sourcePoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2219%22%20value%3D%22%22%20style%3D%22html%3D1%3Bpoints%3D%5B%5D%3Bperimeter%3DorthogonalPerimeter%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22585%22%20y%3D%221120%22%20width%3D%2210%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2220%22%20value%3D%22%22%20style%3D%22html%3D1%3Bpoints%3D%5B%5D%3Bperimeter%3DorthogonalPerimeter%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22585%22%20y%3D%221280%22%20width%3D%2210%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2221%22%20value%3D%22%22%20style%3D%22html%3D1%3Bpoints%3D%5B%5D%3Bperimeter%3DorthogonalPerimeter%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22585%22%20y%3D%221440%22%20width%3D%2210%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2222%22%20value%3D%22%22%20style%3D%22html%3D1%3Bpoints%3D%5B%5D%3Bperimeter%3DorthogonalPerimeter%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221085%22%20y%3D%221440%22%20width%3D%2210%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2223%22%20value%3D%22BOWorkingTruckSessionWebService.endTruckSession()%22%20style%3D%22html%3D1%3BverticalAlign%3Dbottom%3BendArrow%3Dblock%3BentryX%3D0%3BentryY%3D0%3Bshadow%3D0%3B%22%20edge%3D%221%22%20target%3D%2222%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22596%22%20y%3D%221440%22%20as%3D%22sourcePoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2224%22%20value%3D%22return%22%20style%3D%22html%3D1%3BverticalAlign%3Dbottom%3BendArrow%3Dopen%3Bdashed%3D1%3BendSize%3D8%3BexitX%3D0%3BexitY%3D0.95%3Bshadow%3D0%3BentryX%3D1.1%3BentryY%3D0.975%3BentryDx%3D0%3BentryDy%3D0%3BentryPerimeter%3D0%3B%22%20edge%3D%221%22%20source%3D%2222%22%20target%3D%2221%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22600%22%20y%3D%221520%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2225%22%20value%3D%22%22%20style%3D%22html%3D1%3Bpoints%3D%5B%5D%3Bperimeter%3DorthogonalPerimeter%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221085%22%20y%3D%221600%22%20width%3D%2210%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2226%22%20value%3D%22BOWorkingTruckSessionWebService.getCurrentAssignment()%22%20style%3D%22html%3D1%3BverticalAlign%3Dbottom%3BendArrow%3Dblock%3BentryX%3D0%3BentryY%3D0%3Bshadow%3D0%3BexitX%3D0.9%3BexitY%3D0.05%3BexitDx%3D0%3BexitDy%3D0%3BexitPerimeter%3D0%3B%22%20edge%3D%221%22%20source%3D%2227%22%20target%3D%2225%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22670%22%20y%3D%221610%22%20as%3D%22sourcePoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2227%22%20value%3D%22%22%20style%3D%22html%3D1%3Bpoints%3D%5B%5D%3Bperimeter%3DorthogonalPerimeter%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22585%22%20y%3D%221600%22%20width%3D%2210%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2228%22%20value%3D%22%22%20style%3D%22html%3D1%3Bpoints%3D%5B%5D%3Bperimeter%3DorthogonalPerimeter%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221085%22%20y%3D%221680%22%20width%3D%2210%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2229%22%20value%3D%22BOWorkingTruckSessionWebService.forceCompleteAssignmentPhase()%22%20style%3D%22html%3D1%3BverticalAlign%3Dbottom%3BendArrow%3Dblock%3BentryX%3D0%3BentryY%3D0%3Bshadow%3D0%3BexitX%3D0.9%3BexitY%3D0.05%3BexitDx%3D0%3BexitDy%3D0%3BexitPerimeter%3D0%3B%22%20edge%3D%221%22%20source%3D%2230%22%20target%3D%2228%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22670%22%20y%3D%221690%22%20as%3D%22sourcePoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2230%22%20value%3D%22%22%20style%3D%22html%3D1%3Bpoints%3D%5B%5D%3Bperimeter%3DorthogonalPerimeter%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22585%22%20y%3D%221680%22%20width%3D%2210%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2231%22%20value%3D%22%22%20style%3D%22html%3D1%3Bpoints%3D%5B%5D%3Bperimeter%3DorthogonalPerimeter%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221085%22%20y%3D%221760%22%20width%3D%2210%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2232%22%20value%3D%22BOReplenishmentAssignmentWebService.endReconciliation()%22%20style%3D%22html%3D1%3BverticalAlign%3Dbottom%3BendArrow%3Dblock%3BentryX%3D0%3BentryY%3D0%3Bshadow%3D0%3BexitX%3D0.9%3BexitY%3D0.05%3BexitDx%3D0%3BexitDy%3D0%3BexitPerimeter%3D0%3B%22%20edge%3D%221%22%20source%3D%2233%22%20target%3D%2231%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22670%22%20y%3D%221770%22%20as%3D%22sourcePoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2233%22%20value%3D%22%22%20style%3D%22html%3D1%3Bpoints%3D%5B%5D%3Bperimeter%3DorthogonalPerimeter%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22585%22%20y%3D%221760%22%20width%3D%2210%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2234%22%20value%3D%22%22%20style%3D%22html%3D1%3Bpoints%3D%5B%5D%3Bperimeter%3DorthogonalPerimeter%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221085%22%20y%3D%221840%22%20width%3D%2210%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2235%22%20value%3D%22BOWorkingTruckSessionWebService.transferred()%22%20style%3D%22html%3D1%3BverticalAlign%3Dbottom%3BendArrow%3Dblock%3BentryX%3D0%3BentryY%3D0%3Bshadow%3D0%3BexitX%3D0.9%3BexitY%3D0.05%3BexitDx%3D0%3BexitDy%3D0%3BexitPerimeter%3D0%3B%22%20edge%3D%221%22%20source%3D%2236%22%20target%3D%2234%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22670%22%20y%3D%221850%22%20as%3D%22sourcePoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2236%22%20value%3D%22%22%20style%3D%22html%3D1%3Bpoints%3D%5B%5D%3Bperimeter%3DorthogonalPerimeter%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22585%22%20y%3D%221840%22%20width%3D%2210%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2237%22%20value%3D%22%22%20style%3D%22html%3D1%3Bpoints%3D%5B%5D%3Bperimeter%3DorthogonalPerimeter%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221085%22%20y%3D%221920%22%20width%3D%2210%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2238%22%20value%3D%22BOWorkingTruckSessionWebService.endTruckSession()%22%20style%3D%22html%3D1%3BverticalAlign%3Dbottom%3BendArrow%3Dblock%3BentryX%3D0%3BentryY%3D0%3Bshadow%3D0%3BexitX%3D0.9%3BexitY%3D0.05%3BexitDx%3D0%3BexitDy%3D0%3BexitPerimeter%3D0%3B%22%20edge%3D%221%22%20source%3D%2239%22%20target%3D%2237%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22670%22%20y%3D%221930%22%20as%3D%22sourcePoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2239%22%20value%3D%22%22%20style%3D%22html%3D1%3Bpoints%3D%5B%5D%3Bperimeter%3DorthogonalPerimeter%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22585%22%20y%3D%221920%22%20width%3D%2210%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="rOqxTrg8aDe8NC21bboG-1">
+          <mxGeometry x="180" y="910" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8rUGCpM4c3Fx28PJnizt-1" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="rOqxTrg8aDe8NC21bboG-1">
+          <mxGeometry x="370" y="1680" width="985" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="8rUGCpM4c3Fx28PJnizt-2" value="set truck session to offduty" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="rOqxTrg8aDe8NC21bboG-1">
+          <mxGeometry x="160" y="1000" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8rUGCpM4c3Fx28PJnizt-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;startArrow=none;" edge="1" parent="rOqxTrg8aDe8NC21bboG-1" source="8rUGCpM4c3Fx28PJnizt-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="1590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8rUGCpM4c3Fx28PJnizt-4" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="rOqxTrg8aDe8NC21bboG-1">
+          <mxGeometry x="245" y="1170" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8rUGCpM4c3Fx28PJnizt-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" edge="1" parent="rOqxTrg8aDe8NC21bboG-1" source="8rUGCpM4c3Fx28PJnizt-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="2260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8rUGCpM4c3Fx28PJnizt-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rOqxTrg8aDe8NC21bboG-1" source="8rUGCpM4c3Fx28PJnizt-6" target="8rUGCpM4c3Fx28PJnizt-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8rUGCpM4c3Fx28PJnizt-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rOqxTrg8aDe8NC21bboG-1" source="8rUGCpM4c3Fx28PJnizt-6" target="8rUGCpM4c3Fx28PJnizt-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8rUGCpM4c3Fx28PJnizt-6" value="test-agent-interface" style="html=1;" vertex="1" parent="rOqxTrg8aDe8NC21bboG-1">
+          <mxGeometry x="480" y="1190" width="200" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="8rUGCpM4c3Fx28PJnizt-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" edge="1" parent="rOqxTrg8aDe8NC21bboG-1" source="8rUGCpM4c3Fx28PJnizt-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1090" y="2240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1090" y="2190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8rUGCpM4c3Fx28PJnizt-8" value="truck-service-interface" style="html=1;" vertex="1" parent="rOqxTrg8aDe8NC21bboG-1">
+          <mxGeometry x="990" y="1190" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8rUGCpM4c3Fx28PJnizt-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="rOqxTrg8aDe8NC21bboG-1">
+          <mxGeometry x="255" y="1360" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8rUGCpM4c3Fx28PJnizt-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;endArrow=none;" edge="1" parent="rOqxTrg8aDe8NC21bboG-1" source="8rUGCpM4c3Fx28PJnizt-4" target="8rUGCpM4c3Fx28PJnizt-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="1570" as="targetPoint" />
+            <mxPoint x="260" y="1230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8rUGCpM4c3Fx28PJnizt-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="rOqxTrg8aDe8NC21bboG-1">
+          <mxGeometry x="575" y="1274" width="10" height="960" as="geometry" />
+        </mxCell>
+        <mxCell id="8rUGCpM4c3Fx28PJnizt-12" value="&lt;span style=&quot;font-size: 11px&quot;&gt;TruckSessionWebService.offDuty()&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;shadow=0;" edge="1" parent="rOqxTrg8aDe8NC21bboG-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="1360" as="sourcePoint" />
+            <mxPoint x="575" y="1360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8rUGCpM4c3Fx28PJnizt-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="rOqxTrg8aDe8NC21bboG-1">
+          <mxGeometry x="1085" y="1400" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8rUGCpM4c3Fx28PJnizt-17" value="BOWorkingTruckSessionWebService.offline()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;exitX=0.9;exitY=0.013;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="rOqxTrg8aDe8NC21bboG-1" source="8rUGCpM4c3Fx28PJnizt-19" target="8rUGCpM4c3Fx28PJnizt-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="865" y="1400" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8rUGCpM4c3Fx28PJnizt-19" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="rOqxTrg8aDe8NC21bboG-1">
+          <mxGeometry x="585" y="1400" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8rUGCpM4c3Fx28PJnizt-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="rOqxTrg8aDe8NC21bboG-1">
+          <mxGeometry x="585" y="1560" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8rUGCpM4c3Fx28PJnizt-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="rOqxTrg8aDe8NC21bboG-1">
+          <mxGeometry x="1085" y="1560" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8rUGCpM4c3Fx28PJnizt-22" value="BOWorkingTruckSessionWebService.endTruckSession()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;" edge="1" parent="rOqxTrg8aDe8NC21bboG-1" target="8rUGCpM4c3Fx28PJnizt-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="596" y="1560" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8rUGCpM4c3Fx28PJnizt-23" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;shadow=0;entryX=1.1;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="rOqxTrg8aDe8NC21bboG-1" source="8rUGCpM4c3Fx28PJnizt-21" target="8rUGCpM4c3Fx28PJnizt-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="1640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8rUGCpM4c3Fx28PJnizt-24" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="rOqxTrg8aDe8NC21bboG-1">
+          <mxGeometry x="1085" y="1720" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8rUGCpM4c3Fx28PJnizt-25" value="BOWorkingTruckSessionWebService.getCurrentAssignment()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;exitX=0.9;exitY=0.05;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="rOqxTrg8aDe8NC21bboG-1" source="8rUGCpM4c3Fx28PJnizt-26" target="8rUGCpM4c3Fx28PJnizt-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="1730" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8rUGCpM4c3Fx28PJnizt-26" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="rOqxTrg8aDe8NC21bboG-1">
+          <mxGeometry x="585" y="1720" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8rUGCpM4c3Fx28PJnizt-27" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="rOqxTrg8aDe8NC21bboG-1">
+          <mxGeometry x="1085" y="1800" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8rUGCpM4c3Fx28PJnizt-28" value="BOWorkingTruckSessionWebService.forceCompleteAssignmentPhase()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;exitX=0.9;exitY=0.05;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="rOqxTrg8aDe8NC21bboG-1" source="8rUGCpM4c3Fx28PJnizt-29" target="8rUGCpM4c3Fx28PJnizt-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="1810" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8rUGCpM4c3Fx28PJnizt-29" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="rOqxTrg8aDe8NC21bboG-1">
+          <mxGeometry x="585" y="1800" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8rUGCpM4c3Fx28PJnizt-30" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="rOqxTrg8aDe8NC21bboG-1">
+          <mxGeometry x="1085" y="1880" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8rUGCpM4c3Fx28PJnizt-31" value="BOReplenishmentAssignmentWebService.endReconciliation()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;exitX=0.9;exitY=0.05;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="rOqxTrg8aDe8NC21bboG-1" source="8rUGCpM4c3Fx28PJnizt-32" target="8rUGCpM4c3Fx28PJnizt-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="1890" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8rUGCpM4c3Fx28PJnizt-32" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="rOqxTrg8aDe8NC21bboG-1">
+          <mxGeometry x="585" y="1880" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8rUGCpM4c3Fx28PJnizt-33" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="rOqxTrg8aDe8NC21bboG-1">
+          <mxGeometry x="1085" y="1960" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8rUGCpM4c3Fx28PJnizt-34" value="BOWorkingTruckSessionWebService.transferred()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;exitX=0.9;exitY=0.05;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="rOqxTrg8aDe8NC21bboG-1" source="8rUGCpM4c3Fx28PJnizt-35" target="8rUGCpM4c3Fx28PJnizt-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="1970" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8rUGCpM4c3Fx28PJnizt-35" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="rOqxTrg8aDe8NC21bboG-1">
+          <mxGeometry x="585" y="1960" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8rUGCpM4c3Fx28PJnizt-36" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="rOqxTrg8aDe8NC21bboG-1">
+          <mxGeometry x="1085" y="2040" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8rUGCpM4c3Fx28PJnizt-37" value="BOWorkingTruckSessionWebService.endTruckSession()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;exitX=0.9;exitY=0.05;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="rOqxTrg8aDe8NC21bboG-1" source="8rUGCpM4c3Fx28PJnizt-38" target="8rUGCpM4c3Fx28PJnizt-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="2050" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8rUGCpM4c3Fx28PJnizt-38" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="rOqxTrg8aDe8NC21bboG-1">
+          <mxGeometry x="585" y="2040" width="10" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
