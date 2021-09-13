@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T07:34:51.863Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="AaQI3XL4yCAzEdVPDnax" version="15.1.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-09-13T07:37:15.220Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="La_2iBoiHL4CA9vmgChc" version="15.1.4" type="github" pages="5">
   <diagram id="WcOczfvRfabkbM_W5sL2" name=" order&#39;s lifecycle">
     <mxGraphModel dx="2493" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -675,7 +675,7 @@
         <mxCell id="5b4PZHnpCQHd1UmuZ81p-42" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="QIcFJK9Orlo5iP6icB1l-1" vertex="1">
           <mxGeometry x="575" y="1120" width="10" height="960" as="geometry" />
         </mxCell>
-        <mxCell id="5b4PZHnpCQHd1UmuZ81p-43" value="&lt;span style=&quot;font-size: 11px&quot;&gt;OrderWebService.bulkCancel()&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;shadow=0;" parent="QIcFJK9Orlo5iP6icB1l-1" target="5b4PZHnpCQHd1UmuZ81p-42" edge="1">
+        <mxCell id="5b4PZHnpCQHd1UmuZ81p-43" value="&lt;span style=&quot;font-size: 11px&quot;&gt;TruckSessionWebService.bulkOffDuty()&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;shadow=0;" parent="QIcFJK9Orlo5iP6icB1l-1" target="5b4PZHnpCQHd1UmuZ81p-42" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="1120" as="sourcePoint" />
           </mxGeometry>
@@ -767,8 +767,8 @@
         <mxCell id="5b4PZHnpCQHd1UmuZ81p-81" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="QIcFJK9Orlo5iP6icB1l-1" vertex="1">
           <mxGeometry x="585" y="1840" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MX2GW63HXAJH6vILXi8G-2" value="&lt;div&gt;TruckSessionWebService.bulkOffDuty()&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="QIcFJK9Orlo5iP6icB1l-1" vertex="1">
-          <mxGeometry x="221" y="295" width="230" height="30" as="geometry" />
+        <mxCell id="MX2GW63HXAJH6vILXi8G-2" value="&lt;div&gt;OrderWebService.bulkCancel()&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="QIcFJK9Orlo5iP6icB1l-1" vertex="1">
+          <mxGeometry x="246" y="300" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="MX2GW63HXAJH6vILXi8G-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="QIcFJK9Orlo5iP6icB1l-1" vertex="1">
           <mxGeometry x="1085" y="1920" width="10" height="40" as="geometry" />
@@ -1187,7 +1187,7 @@
         <mxCell id="rOqxTrg8aDe8NC21bboG-1" parent="rOqxTrg8aDe8NC21bboG-0" />
         <mxCell id="rOqxTrg8aDe8NC21bboG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" edge="1" parent="rOqxTrg8aDe8NC21bboG-1" source="rOqxTrg8aDe8NC21bboG-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="781" y="640" as="targetPoint" />
+            <mxPoint x="781" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rOqxTrg8aDe8NC21bboG-5" value="order-service-interface" style="html=1;" vertex="1" parent="rOqxTrg8aDe8NC21bboG-1">
@@ -1209,7 +1209,7 @@
         </mxCell>
         <mxCell id="rOqxTrg8aDe8NC21bboG-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" edge="1" parent="rOqxTrg8aDe8NC21bboG-1" source="rOqxTrg8aDe8NC21bboG-15">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="465" y="670" as="targetPoint" />
+            <mxPoint x="465" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rOqxTrg8aDe8NC21bboG-15" value="test-agent-interface" style="html=1;" vertex="1" parent="rOqxTrg8aDe8NC21bboG-1">
