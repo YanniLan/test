@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T10:02:39.413Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="5N8aK9Hvg6uP_dPOXjjY" version="15.1.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-09-14T02:55:01.491Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="3sugsUfda-fFPQbPjCJD" version="15.1.4" type="github" pages="6">
   <diagram id="WcOczfvRfabkbM_W5sL2" name=" order&#39;s lifecycle">
     <mxGraphModel dx="2493" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1382,6 +1382,74 @@
         </mxCell>
         <mxCell id="CJi6PjUQZ2mMNtCTzIxr-2" value="appium-junit" style="html=1;" vertex="1" parent="rOqxTrg8aDe8NC21bboG-1">
           <mxGeometry x="114.5" y="150" width="181" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="nhQBIw8vVrrzatZb3YiZ" name="Cancellation Threshold">
+    <mxGraphModel dx="1666" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="LBsDQCWSy1Ptco0k2XCK-0" />
+        <mxCell id="LBsDQCWSy1Ptco0k2XCK-1" parent="LBsDQCWSy1Ptco0k2XCK-0" />
+        <mxCell id="LBsDQCWSy1Ptco0k2XCK-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="LBsDQCWSy1Ptco0k2XCK-1" source="LBsDQCWSy1Ptco0k2XCK-2" target="LBsDQCWSy1Ptco0k2XCK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LBsDQCWSy1Ptco0k2XCK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="LBsDQCWSy1Ptco0k2XCK-1" source="LBsDQCWSy1Ptco0k2XCK-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LBsDQCWSy1Ptco0k2XCK-2" value="appium-junit" style="html=1;" vertex="1" parent="LBsDQCWSy1Ptco0k2XCK-1">
+          <mxGeometry x="40" y="110" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LBsDQCWSy1Ptco0k2XCK-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="LBsDQCWSy1Ptco0k2XCK-1" source="LBsDQCWSy1Ptco0k2XCK-3" target="LBsDQCWSy1Ptco0k2XCK-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LBsDQCWSy1Ptco0k2XCK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="LBsDQCWSy1Ptco0k2XCK-1" source="LBsDQCWSy1Ptco0k2XCK-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="405" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LBsDQCWSy1Ptco0k2XCK-3" value="test-agent-interface" style="html=1;" vertex="1" parent="LBsDQCWSy1Ptco0k2XCK-1">
+          <mxGeometry x="350" y="110" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LBsDQCWSy1Ptco0k2XCK-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="LBsDQCWSy1Ptco0k2XCK-1" source="LBsDQCWSy1Ptco0k2XCK-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="715" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LBsDQCWSy1Ptco0k2XCK-5" value="order-service-interface" style="html=1;" vertex="1" parent="LBsDQCWSy1Ptco0k2XCK-1">
+          <mxGeometry x="640" y="110" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LBsDQCWSy1Ptco0k2XCK-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="LBsDQCWSy1Ptco0k2XCK-1">
+          <mxGeometry x="90" y="240" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LBsDQCWSy1Ptco0k2XCK-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="LBsDQCWSy1Ptco0k2XCK-1" source="LBsDQCWSy1Ptco0k2XCK-2" target="LBsDQCWSy1Ptco0k2XCK-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="610" as="targetPoint" />
+            <mxPoint x="95" y="160" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LBsDQCWSy1Ptco0k2XCK-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="LBsDQCWSy1Ptco0k2XCK-1">
+          <mxGeometry x="400" y="240" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LBsDQCWSy1Ptco0k2XCK-18" value="OrderWebService.updateCancellationConfiguration()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" target="LBsDQCWSy1Ptco0k2XCK-17" parent="LBsDQCWSy1Ptco0k2XCK-1" source="LBsDQCWSy1Ptco0k2XCK-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="240" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LBsDQCWSy1Ptco0k2XCK-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="LBsDQCWSy1Ptco0k2XCK-1">
+          <mxGeometry x="710" y="240" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LBsDQCWSy1Ptco0k2XCK-21" value="BOOrderCancellationConfigurationWebService.update()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;exitX=0.8;exitY=0.013;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="LBsDQCWSy1Ptco0k2XCK-20" parent="LBsDQCWSy1Ptco0k2XCK-1" source="LBsDQCWSy1Ptco0k2XCK-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="240" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LBsDQCWSy1Ptco0k2XCK-22" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" edge="1" source="LBsDQCWSy1Ptco0k2XCK-20" parent="LBsDQCWSy1Ptco0k2XCK-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="316" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
