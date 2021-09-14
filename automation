@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-14T02:55:01.491Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="3sugsUfda-fFPQbPjCJD" version="15.1.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-09-14T03:43:42.682Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="SHzQ-yTLpchzQtmOyqAY" version="15.1.4" type="github" pages="6">
   <diagram id="WcOczfvRfabkbM_W5sL2" name=" order&#39;s lifecycle">
     <mxGraphModel dx="2493" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1087,7 +1087,7 @@
         <mxCell id="YjUB8lDGWRFjBv3O_EOv-72" value="create truck session" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="ziQj4NxIOidS7GKRL9_U-1">
           <mxGeometry x="80" y="80" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YjUB8lDGWRFjBv3O_EOv-73" value="add credit to user" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="ziQj4NxIOidS7GKRL9_U-1">
+        <mxCell id="YjUB8lDGWRFjBv3O_EOv-73" value="remain credit to user" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="ziQj4NxIOidS7GKRL9_U-1">
           <mxGeometry x="123" y="3298" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YjUB8lDGWRFjBv3O_EOv-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;startArrow=none;" edge="1" parent="ziQj4NxIOidS7GKRL9_U-1" source="YjUB8lDGWRFjBv3O_EOv-87">
@@ -1138,7 +1138,7 @@
         <mxCell id="YjUB8lDGWRFjBv3O_EOv-84" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="ziQj4NxIOidS7GKRL9_U-1">
           <mxGeometry x="477" y="3538" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YjUB8lDGWRFjBv3O_EOv-85" value="CreditWebService.add()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;exitX=0.9;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="ziQj4NxIOidS7GKRL9_U-1" source="YjUB8lDGWRFjBv3O_EOv-87" target="YjUB8lDGWRFjBv3O_EOv-84">
+        <mxCell id="YjUB8lDGWRFjBv3O_EOv-85" value="CustomerWebService.remainCredit()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;exitX=0.9;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="ziQj4NxIOidS7GKRL9_U-1" source="YjUB8lDGWRFjBv3O_EOv-87" target="YjUB8lDGWRFjBv3O_EOv-84">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="407" y="3538" as="sourcePoint" />
           </mxGeometry>
@@ -1387,7 +1387,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nhQBIw8vVrrzatZb3YiZ" name="Cancellation Threshold">
-    <mxGraphModel dx="1666" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1666" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="LBsDQCWSy1Ptco0k2XCK-0" />
         <mxCell id="LBsDQCWSy1Ptco0k2XCK-1" parent="LBsDQCWSy1Ptco0k2XCK-0" />
@@ -1444,11 +1444,6 @@
         <mxCell id="LBsDQCWSy1Ptco0k2XCK-21" value="BOOrderCancellationConfigurationWebService.update()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;exitX=0.8;exitY=0.013;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="LBsDQCWSy1Ptco0k2XCK-20" parent="LBsDQCWSy1Ptco0k2XCK-1" source="LBsDQCWSy1Ptco0k2XCK-17">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="640" y="240" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LBsDQCWSy1Ptco0k2XCK-22" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" edge="1" source="LBsDQCWSy1Ptco0k2XCK-20" parent="LBsDQCWSy1Ptco0k2XCK-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="640" y="316" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
